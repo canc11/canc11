@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 欢迎来到我的小库，我是一名23届本科毕业生，所修专业是计算机科学与技术游戏方向，运用Unity3D进行游戏开发，这里将是我工作与学习的记录点！！
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=canc11" /> </div>
